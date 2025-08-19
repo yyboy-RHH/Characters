@@ -119,5 +119,9 @@ Here are some ideas to get you started:
 -->  
 
 
-
+<img src="icons/start_end.svg" width="80" />
+<img src="icons/arrow_right.svg" width="60" />
+<img src="icons/process.svg" width="80" />
+<img src="icons/arrow_right.svg" width="60" />
+<img src="icons/decision.svg" width="90" />
 
