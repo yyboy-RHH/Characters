@@ -70,6 +70,9 @@ pacjage
 其他  
 ✨
 
+直譯(翻譯)  
+📖 
+
 
 🟢 Start → 🔵 Process → 🟠 Decision → 🟣 DB  <br><br>  
 
