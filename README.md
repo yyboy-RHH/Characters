@@ -1,6 +1,9 @@
 # Characters  
 "Inline icon" 在中文裡通常指的是「內嵌圖示」或「行內圖示」
 
+基本定義 ( ex: 🌟 基本定義 )  
+
+
 關聯 ( ex: 🗂️關聯到 context )    
 🗂️ 
 
