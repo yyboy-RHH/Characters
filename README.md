@@ -87,7 +87,10 @@ Sparkle
 ✨  
 
 星星  
-⭐ 🌟 🌠 💫 ✶ ✭ ✮ ✯ ✰
+⭐ 🌟 🌠 💫 ✶ ✭ ✮ ✯ ✰  
+<img width="51" height="55" alt="image" src="https://github.com/user-attachments/assets/7790b7d3-0a08-4731-9698-fc20f2748a50" />
+
+
 
 
 直譯(翻譯)  
