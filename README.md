@@ -76,12 +76,12 @@ Database
 Start  
 🚀
 
-價格走勢
-📈 SPY 價格走勢  
+價格走勢  
+( ex: 📈 SPY 價格走勢 )    
 📈  
 
 配息情況  
-💵 SPY 配息情況  
+( ex: 💵 SPY 配息情況 )   
 💵  
 
 package   
