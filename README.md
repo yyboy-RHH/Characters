@@ -88,6 +88,7 @@ Process(流程)
 🔴🟡🟢  
 
 🎨 彩色圓形 Emoji   
+
 🔴 Red Circle（紅色）
 🟠 Orange Circle（橙色）
 🟡 Yellow Circle（黃色）
@@ -99,6 +100,7 @@ Process(流程)
 🟤 Brown Circle（棕色）
 
 🎨 彩色方形 Emoji    
+
 🟥 Red Square（紅色）
 🟧 Orange Square（橙色）
 🟨 Yellow Square（黃色）
