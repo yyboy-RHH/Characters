@@ -85,11 +85,8 @@ Hi
 
 Process(流程)  
 🔴🟡🟢  
-🟥  
-⬛  
 
 🎨 彩色圓形 Emoji 一覽  
-
 🔴 Red Circle（紅色）
 🟠 Orange Circle（橙色）
 🟡 Yellow Circle（黃色）
@@ -99,6 +96,17 @@ Process(流程)
 ⚫ Black Circle（黑色）
 ⚪ White Circle（白色）
 🟤 Brown Circle（棕色）
+
+🎨 常見彩色方形 Emoji
+🟥 Red Square（紅色）
+🟧 Orange Square（橙色）
+🟨 Yellow Square（黃色）
+🟩 Green Square（綠色）
+🟦 Blue Square（藍色）
+🟪 Purple Square（紫色）
+⬛ Black Large Square（黑色）
+⬜ White Large Square（白色）
+🟫 Brown Square（棕色）
 
 Database  
 🗄️
