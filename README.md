@@ -97,7 +97,7 @@ Process(流程)
 ⚪ White Circle（白色）
 🟤 Brown Circle（棕色）
 
-🎨 常見彩色方形 Emoji
+🎨 常見彩色方形 Emoji  
 🟥 Red Square（紅色）
 🟧 Orange Square（橙色）
 🟨 Yellow Square（黃色）
