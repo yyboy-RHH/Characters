@@ -58,6 +58,12 @@ Hello 、 笑臉
 數字  
 0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣
 
+帶圈數字  
+① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩  
+
+黑圈數字  
+❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿  
+
 Hi   
 👋  
 
@@ -102,11 +108,11 @@ Sparkle
 ⭐ 🌟 🌠 💫 ✶ ✭ ✮ ✯ ✰  
 <img width="51" height="55" alt="image" src="https://github.com/user-attachments/assets/7790b7d3-0a08-4731-9698-fc20f2748a50" />
 
-
-
-
 直譯(翻譯)  
 📖 
+
+顏色  
+🎨  
 
 
 <br>
