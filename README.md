@@ -195,9 +195,9 @@ Sparkle
 
 
 大綱數字  
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/854a5188-f7d7-4e01-9437-3d44c9bb1181" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/82a96fc7-316d-45ed-86ee-4da504fe0f7e" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/23cea9e7-9303-49f1-b5a6-79886b074d1e" />  
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/854a5188-f7d7-4e01-9437-3d44c9bb1181" />
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/82a96fc7-316d-45ed-86ee-4da504fe0f7e" />
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/23cea9e7-9303-49f1-b5a6-79886b074d1e" />  
 
 
 
