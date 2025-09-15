@@ -157,7 +157,7 @@ Sparkle
 ⭐ 🌟 🌠 💫 ✶ ✭ ✮ ✯ ✰  
 
 <img width="51" height="53" alt="image" src="https://github.com/user-attachments/assets/3508f051-ce6a-49c1-9565-7efcbebbec7a" />
-<img width="51" height="53" alt="image" src="https://github.com/user-attachments/assets/7c24e333-48de-4613-a0ab-ee67706e0c0e" />   <br>  
+<img width="51" height="53" alt="image" src="https://github.com/user-attachments/assets/7c24e333-48de-4613-a0ab-ee67706e0c0e" />   <br><br><br>   
 
 直譯(翻譯)  
 📖 
