@@ -1,6 +1,5 @@
 # Characters  
 "Inline icon" 在中文裡通常指的是「內嵌圖示」或「行內圖示」
-<img width="219" height="220" alt="image" src="https://github.com/user-attachments/assets/cdd70dcd-bbaf-43bb-95c7-785c397cec68" />
 
 基本定義  
 ( ex: 🌟 基本定義 )    
