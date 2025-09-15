@@ -158,6 +158,7 @@ Sparkle
 <img width="219" height="220" alt="image" src="https://github.com/user-attachments/assets/53a4dbc4-e438-4b67-bb7b-b49e691af67b" />
 <img width="219" height="220" alt="image" src="https://github.com/user-attachments/assets/b6330484-8b3b-40ac-bd3f-143d9af73e98" />
 <img width="63" height="65" alt="image" src="https://github.com/user-attachments/assets/3508f051-ce6a-49c1-9565-7efcbebbec7a" />
+<img width="202" height="211" alt="image" src="https://github.com/user-attachments/assets/7c24e333-48de-4613-a0ab-ee67706e0c0e" />
 
 
 直譯(翻譯)  
