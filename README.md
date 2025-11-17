@@ -163,11 +163,11 @@ Process(流程)
 ⬜ White Large Square（白色）
 🟫 Brown Square（棕色）  
 
-🎨 大菱形（Large Diamond） Emoji   
+🎨 大菱形（Large Diamond）  
 🔶 Large Orange Diamond
 🔷 Large Blue Diamond
 
-🎨 小菱形（Small Diamond） Emoji   
+🎨 小菱形（Small Diamond） 
 🔸 Small Orange Diamond
 🔹 Small Blue Diamond
 
