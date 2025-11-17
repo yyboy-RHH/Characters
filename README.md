@@ -164,18 +164,18 @@ Process(流程)
 🟫 Brown Square（棕色）  
 
 🎨 大菱形（Large Diamond） Emoji   
-🔶 Large Orange Diamond  
-🔷 Large Blue Diamond  
+🔶 Large Orange Diamond
+🔷 Large Blue Diamond
 
 🎨 小菱形（Small Diamond） Emoji   
-🔸 Small Orange Diamond  
-🔹 Small Blue Diamond  
+🔸 Small Orange Diamond
+🔹 Small Blue Diamond
 
 🎨 小色塊（Small Squares）  
-◼ 黑小方塊  
-◻ 白小方塊  
-◾ 深色小方塊  
-◽ 淺色小方塊  
+◼ 黑小方塊
+◻ 白小方塊
+◾ 深色小方塊
+◽ 淺色小方塊
 
 Database  
 🗄️
