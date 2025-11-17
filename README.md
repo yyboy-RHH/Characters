@@ -163,15 +163,15 @@ Process(流程)
 ⬜ White Large Square（白色）
 🟫 Brown Square（棕色）  
 
-🎨 大菱形（Large Diamond）  
+🎨 大菱形（Large Diamond)    
 🔶 Large Orange Diamond
 🔷 Large Blue Diamond
 
-🎨 小菱形（Small Diamond） 
+🎨 小菱形（Small Diamond)  
 🔸 Small Orange Diamond
 🔹 Small Blue Diamond
 
-🎨 小色塊（Small Squares）  
+🎨 小色塊（Small Squares)   
 ◼ 黑小方塊
 ◻ 白小方塊
 ◾ 深色小方塊
